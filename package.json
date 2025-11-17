@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/googleapis/release-please-action.git"
+    "url": "git+https://github.com/ducminhle/release-please-action.git"
   },
   "keywords": [
     "release-please",
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/googleapis/release-please-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "release-please": "^17.1.3"
+    "@ducminhle/release-please": "github:ducminhle/release-please#add-python-workspace"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
